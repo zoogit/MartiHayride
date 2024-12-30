@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MartiHayride/static/css/main.8b066a0b.css",
+    "main.js": "/MartiHayride/static/js/main.0af15c68.js",
+    "static/js/488.662e1e35.chunk.js": "/MartiHayride/static/js/488.662e1e35.chunk.js",
+    "static/media/graveyard.gif": "/MartiHayride/static/media/graveyard.36b7177214fe10d228af.gif",
+    "index.html": "/MartiHayride/index.html",
+    "main.8b066a0b.css.map": "/MartiHayride/static/css/main.8b066a0b.css.map",
+    "main.0af15c68.js.map": "/MartiHayride/static/js/main.0af15c68.js.map",
+    "488.662e1e35.chunk.js.map": "/MartiHayride/static/js/488.662e1e35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b066a0b.css",
+    "static/js/main.0af15c68.js"
+  ]
+}
